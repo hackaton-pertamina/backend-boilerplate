@@ -6,8 +6,8 @@ It's just a plain repository to use firebase as a user management for hackaton p
 
 ## How to Use 
 1. Make sure you have ```node``` and ```npm``` or ```yarn``` installed.
-2. clone this repo ```https://github.com/hackaton-pertamina/backend-boilerplate.git```.
-3. get provide these env variables:
+2. Clone this repo ```https://github.com/hackaton-pertamina/backend-boilerplate.git```.
+3. Provide these env variables:
     - FIREBASE_API_KEY
     - FIREBASE_AUTH_DOMAIN
     - FIREBASE_DATABASE_URL
